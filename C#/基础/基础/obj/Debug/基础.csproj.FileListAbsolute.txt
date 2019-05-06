@@ -1,0 +1,7 @@
+D:\Code\Unity\C#\基础\基础\bin\Debug\基础.exe.config
+D:\Code\Unity\C#\基础\基础\bin\Debug\基础.exe
+D:\Code\Unity\C#\基础\基础\bin\Debug\基础.pdb
+D:\Code\Unity\C#\基础\基础\obj\Debug\基础.csprojAssemblyReference.cache
+D:\Code\Unity\C#\基础\基础\obj\Debug\基础.csproj.CoreCompileInputs.cache
+D:\Code\Unity\C#\基础\基础\obj\Debug\基础.exe
+D:\Code\Unity\C#\基础\基础\obj\Debug\基础.pdb
